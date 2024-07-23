@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D-Stokes
 - 👀 I’m interested in Maths, Simulations and Games
-- 🌱 I’m currently learning Python, Godot, p5js
+- 🌱 I’m currently learning Python, Godot, javascript
 
 
 <!---
